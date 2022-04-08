@@ -1,5 +1,5 @@
 [
-    {"title":"39看","api":"http://mygzycj.com/sapi.php/provide/vod/","datatype":"json","search":true},
+    {"title":"39看","api":"http://secj8.com/inc/xf.php/provide/vod/","datatype":"json","search":true},
     {"title":"百度云","api":"http://mygzycj.com/api.php/provide/vod/from/dbm3u8/","datatype":"json","search":true},
     {"title":"乐活影视","api":"http://mygzycj.com/api.php/","datatype":"json","search":true},
     {"title":"爪可可影视","api":"https://www.zwcoco.com/api.php/provide/vod/","datatype":"json","search":true},

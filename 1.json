@@ -16,7 +16,7 @@
     {"title":"红牛资源","api":"https://www.hongniuzy2.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"BL视频","api":"https://bljiex.com/api.php/provide/vod/","datatype":"json","search":true},
     {"title":"88资源","api":"http://www.88zy.live/inc/apijson_vod.php/provide/vod/","datatype":"json","search":false},
-    {"title":"八戒资源","api":"http://cj.bajiecaiji.com/inc/api.php/provide/vod/","datatype":"xml","search":false},
+    {"title":"八戒资源","api":" http://secj8.com/inc/xf.php/provide/vod/","datatype":"xml","search":false},
     {"title":"天空资源","api":"http://api.tiankongapi.com/api.php/provide/vod/","datatype":"json","search":false},
     {"title":"快播资源","api":"http://www.kuaibozy.com/api.php/provide/vod/","datatype":"json","search":false}
 ]
